@@ -7,9 +7,11 @@ This is a **real-time voice assistant** built with **Next.js (Frontend) and Expr
 
 ---
 
-### Demo Link
+### Demo & Deployed Link
 
 [Demo Video](https://drive.google.com/file/d/1SNnp1EAEMhf77uDtcI53f4bGaoYHVbO9/view?usp=sharing)  
+[Deployed Link](https://voice-bot-frontend-sepia.vercel.app/)  
+(If it says failed to connect then render have might spin down my server)
 
 ---
 
