@@ -87,9 +87,3 @@ Frontend will run at **`http://localhost:3000`**.
 - **WebSockets Not Connecting?** Ensure backend runs on **HTTPS (Railway/Render).**
 
 ---
-
-🎙️ **Now test your bot live at:**  
-➡️ **Frontend:** [https://voice-bot-frontend-sepia.vercel.app/](https://voice-bot-frontend-sepia.vercel.app/)  
-➡️ **Backend:** [https://voice-bot-backend-50e5.onrender.com/](https://voice-bot-backend-50e5.onrender.com/)  
-
----
